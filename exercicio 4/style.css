@@ -1,0 +1,31 @@
+  @charset "UTF-8"
+
+  
+  body{
+            font-size:medium; 
+
+            font-family: Arial, Helvetica, sans-serif;
+
+
+            font-weight: 100px;
+
+            background-color: rgb(181, 154, 128);
+        }
+
+        h1 { 
+            color: azure;
+            background-color: beige;
+        }
+
+        h2 {
+            color: blue;
+            background-color: blueviolet;
+        }
+        p {
+            text-align: justify;
+        }
+        mark{ background-color: blue;
+
+        }
+
+        
