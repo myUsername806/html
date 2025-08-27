@@ -9,12 +9,12 @@
 
             font-weight: 100px;
 
-            background-color: rgb(181, 154, 128);
+            background-color: rgb(99, 64, 32);
         }
 
         h1 { 
-            color: azure;
-            background-color: beige;
+            color: rgb(21, 65, 65);
+            background-color: rgb(245, 220, 220);
         }
 
         h2 {
@@ -28,4 +28,3 @@
 
         }
 
-        
